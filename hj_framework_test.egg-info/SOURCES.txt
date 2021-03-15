@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+hj_framework_test.egg-info/PKG-INFO
+hj_framework_test.egg-info/SOURCES.txt
+hj_framework_test.egg-info/dependency_links.txt
+hj_framework_test.egg-info/not-zip-safe
+hj_framework_test.egg-info/top_level.txt

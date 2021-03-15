@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
-Name: hj-framework
-Version: 0.0.1
+Name: hj-framework-test
+Version: 0.0.0
 Summary: Deep Neural Networks built from the book `Deep Learning from Scratch`
 Home-page: https://github.com/HyungJoo-Kwon/hj_framework
 Author: HyungJoo-Kwon

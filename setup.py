@@ -14,7 +14,7 @@ def long_description():
     return readme
 
 setup(
-    name='hj_framework',
+    name='hj_framework_test',
     version="0.0.1",
     author="HyungJoo-Kwon",
     author_email="joo9437@naver.com",
