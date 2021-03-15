@@ -22,7 +22,7 @@ setup(
     license='MIT',
     packages=find_packages(),
     keywords="Deep Learning",
-    url="https://github.com/dschloe/dl_framework",
+    url="https://github.com/HyungJoo-Kwon/hj_framework",
     classifiers=[
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
