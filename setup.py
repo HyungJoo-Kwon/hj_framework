@@ -21,7 +21,7 @@ setup(
     description="Deep Neural Networks built from the book `Deep Learning from Scratch`",
     license='MIT',
 #     packages=find_packages(),
-    packages=['test']
+    packages=['KHJ'],
     keywords="Deep Learning",
     url="https://github.com/HyungJoo-Kwon/hj_framework",
     classifiers=[
