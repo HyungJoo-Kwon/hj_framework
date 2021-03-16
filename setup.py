@@ -20,7 +20,8 @@ setup(
     author_email="joo9437@naver.com",
     description="Deep Neural Networks built from the book `Deep Learning from Scratch`",
     license='MIT',
-    packages=find_packages(),
+#     packages=find_packages(),
+    packages=['test']
     keywords="Deep Learning",
     url="https://github.com/HyungJoo-Kwon/hj_framework",
     classifiers=[
