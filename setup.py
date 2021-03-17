@@ -1,6 +1,7 @@
 import os
 import io
 from setuptools import find_packages, setup
+from hj_dezero import __version__
 
 # Utility Function to read the README file
 # Used for the long_description. It's nice, because now 1) we have a top level
@@ -14,14 +15,14 @@ def long_description():
     return readme
 
 setup(
-    name='hj_framework_test',
-    version="0.0.1",
+    name='hj_dezero',
+    # version=__version__,
     author="HyungJoo-Kwon",
     author_email="joo9437@naver.com",
     description="Deep Neural Networks built from the book `Deep Learning from Scratch`",
     license='MIT',
 #     packages=find_packages(),
-    packages=['KHJ'],
+    packages=['hj_dezero'],
     keywords="Deep Learning",
     url="https://github.com/HyungJoo-Kwon/hj_framework",
     classifiers=[
