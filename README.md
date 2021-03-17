@@ -1,5 +1,6 @@
-pip install hj-dezero
+pip install hj-dezero   
 import hj-dezero
+[https://pypi.org/project/hj-dezero/](https://pypi.org/project/hj-dezero/)
 ![pypi_capture](https://user-images.githubusercontent.com/73815944/111421185-e7f8ff80-872f-11eb-8c8f-618189ddb2aa.PNG)
 
 
